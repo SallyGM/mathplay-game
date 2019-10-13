@@ -6,8 +6,8 @@ The game has a variety of mini games that challenges the player with Math.
 ## Built With
 
 * [Eclipse](https://www.eclipse.org/downloads/) - The IDE that I used
-* [Java] - Programming Language
-* [CorelDRAW] (https://www.coreldraw.com/en/) - The software that I used to create the characters and other images.
+* Java - Programming Language
+* [CorelDRAW](https://www.coreldraw.com/en/) - The software that I used to create the characters and other images.
 
 ## Authors
 
