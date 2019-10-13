@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/frame/FrameJanela.java=UTF-8
+encoding//src/label/jogoInfo/LabelJogoInfo.java=UTF-8
+encoding//src/label/jogoInfo/LabelJogoInfoAngel.java=UTF-8
+encoding//src/label/numero/LabelNumeroAngel.java=UTF-8
+encoding//src/label/numero/LabelNumeroBat.java=UTF-8
+encoding//src/label/personagem/LabelPersonagem.java=UTF-8
+encoding//src/label/personagem/LabelPersonagemAngel.java=UTF-8
+encoding//src/panel/jogo/PainelJogoAngel.java=UTF-8
+encoding//src/panel/resultado/PainelResultadoAngel.java=UTF-8
+encoding//src/panel/resultado/PainelResultadoBat.java=UTF-8
+encoding//src/panel/resultado/PainelResultadoCat.java=UTF-8
+encoding//src/usefulTools/ImageTools.java=UTF-8
