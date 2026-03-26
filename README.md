@@ -1,7 +1,6 @@
 # MathPlay
 
-It contains a game that I developed in High School with a friend. 
-The game has a variety of mini games that challenges the player with Math.
+MathPlay is a PC game, developed for a gaming fair at Instituto Federal de São Paulo (IFSP) in 2016 and later this project was recognised and chosen to be presented at EPOGames 2016. The game has a variety of mini-games that challenges players with math problems.
 
 ## Built With
 
